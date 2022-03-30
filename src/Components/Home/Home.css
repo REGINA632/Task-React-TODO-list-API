@@ -1,0 +1,38 @@
+body,
+html {
+  /* background-color: aqua; */
+  background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
+  height: 750px;
+}
+.home {
+  margin: 10px;
+}
+
+.comp {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+}
+
+h1 {
+  margin-top: 15px;
+  font-size: 35px;
+}
+.comp > div {
+  margin: 10px;
+}
+
+.comp > div > h3 {
+  color: rgb(10, 10, 10);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.comp > div > h3:hover {
+  color: #186f91;
+  text-decoration: underline;
+}
+
+/* h3 {
+  color: black;
+} */

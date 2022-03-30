@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "task": "Go shopping for a week.",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "Get in the apartment.",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
